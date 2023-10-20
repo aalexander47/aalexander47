@@ -1,7 +1,29 @@
-# - - - 💫 Hello I'm  Ajay - - - :
+# 👋 Hi there! I'm Ajay a data science enthusiast and aspiring 👩‍💻 student. 
 
 
 <img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+
+
+
+
+📚 I'm currently pursuing a degree in IT  with a strong focus on data science, machine learning, and statistics. I'm passionate about leveraging data to solve real-world problems and make data-driven decisions.
+
+💼 I'm actively seeking opportunities to collaborate on data science projects, internships, or research positions to gain hands-on experience. I have a solid foundation in Python, R, and SQL, and I'm eager to expand my skills further.
+
+🔍 Some of my interests include:
+- Predictive modeling and machine learning
+- Data visualization and storytelling
+- Exploratory data analysis
+- Natural language processing
+
+
+
+🌟 Check out my repositories to see my projects and experiments in data analysis and machine learning. Feel free to reach out if you'd like to collaborate or have any questions.
+
+📫 You can connect with me on LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-singh-470194234/) 
+
+Looking forward to learning, growing, and contributing to the data science community! Let's explore the data-driven world together. 🚀
+
 
 ## 🌐 Socials:
 
