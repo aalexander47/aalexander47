@@ -38,8 +38,3 @@ Looking forward to learning, growing, and contributing to the data science commu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aalexander47&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalexander47&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=aalexander47&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
